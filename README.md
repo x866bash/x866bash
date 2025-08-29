@@ -69,30 +69,16 @@
 
 ---
 
-## 🎨 Penilaian (1–100)
-
 <p align="center">
-  <svg width="280" height="280" viewBox="0 0 42 42" role="img" aria-label="Design UI score">
-    <defs>
-      <linearGradient id="g">
-        <stop offset="0%" stop-color="#34d399"/>
-        <stop offset="100%" stop-color="#06b6d4"/>
-      </linearGradient>
-    </defs>
-
-    <!-- Latar lingkaran -->
-    <circle r="15.915" cx="21" cy="21" fill="none" stroke="#e5e7eb" stroke-width="3.8"/>
-
-    <!-- PROGRESS -->
-    <circle r="15.915" cx="21" cy="21" fill="none" stroke="url(#g)" stroke-width="3.8"
-            stroke-linecap="round" transform="rotate(-90 21 21)" stroke-dasharray="87 100"/>
-
-    <text x="21" y="21" font-size="4" font-weight="700" text-anchor="middle" fill="#111827">87</text>
-    <text x="21" y="26" font-size="2.4" text-anchor="middle" fill="#6b7280">Design UI / 100</text>
-  </svg>
+  <img src="./design-score.svg" width="200"/>
+  <img src="./code-quality.svg" width="200"/>
+  <img src="./devops-skill.svg" width="200"/>
+  <img src="./automation-skill.svg" width="200"/>
 </p>
 
-<img src="https://progress-bar.dev/87/?title=Design%20UI&width=400&color=blue" />
+
+![UI Score](https://img.shields.io/badge/Design%20UI-87%2F100-06b6d4?style=for-the-badge)
+
 `███████████████████████████████████████████-----` 87/100
 
 > **Nilai Awal** Set awal: `87`.
