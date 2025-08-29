@@ -95,11 +95,12 @@
 
 ### Bahasa
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x866bash&layout=compact&theme=tokyonight" alt="Top l>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x866bash&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <!-- ACTIVITY:END -->
 
+---
 ---
 
 ## 🗂️ Showcase Pilihan
