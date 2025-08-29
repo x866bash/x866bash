@@ -83,7 +83,7 @@
 
 <!-- ACTIVITY:START -->
 
-### Metrics
+### Metrics Lengkap
 <p align="center">
   <img src="./metrics.svg" alt="GitHub metrics"/>
 </p>
