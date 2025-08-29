@@ -1,0 +1,118 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&center=true&vCenter=true&width=750&lines=Halo%2C+aku+leak+%28%40x866bash%29+%F0%9F%91%8B;Builder+%7C+DevOps+%7C+Automation+Enthusiast;Open+Source+enjoyer+%26+problem+solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/x866bash?tab=followers"><img src="https://img.shields.io/github/followers/x866bash?label=Followers&logo=github&style=for-the-badge" /></a>
+  <a href="https://github.com/x866bash"><img src="https://komarev.com/ghpvc/?username=x866bash&style=for-the-badge" /></a>
+  <a href="https://github.com/x866bash?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/x866bash?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" /></a>
+</p>
+
+---
+
+### 👤 Tentang Saya
+
+* 🔭 Fokus sekarang: **Membangun bot Telegram & API untuk otomasi**
+* 🧰 Stack harian: **Python | Docker | FastAPI | Redis | GitHub Actions | Nginx**
+* 💬 Senang ngobrol soal: **DevOps, self-hosted tools, debugging Linux**
+* ⚡ Fun fact: sering ngoprek server dari jam 12 sampe jam 5 pagi ☕
+* 📫 Kontak cepat: **melalui GitHub issues/discussions** OR [EMAIL AKU](x866bash.github@zohomail.com)
+
+---
+
+## 🧩 Ringkasan & Metadata
+
+<div align="center">
+
+<!-- METRICS:CARDS -->
+
+<a href="https://github.com/x866bash">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=x866bash&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Stats" />
+</a>
+<a href="https://github.com/x866bash">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=x866bash&hide_border=true&theme=transparent" alt="Streak" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/x866bash">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x866bash&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Top Langs" />
+</a>
+
+</div>
+---
+
+## 🧠 Bahasa & Stack yang Dipakai
+
+### 🔡 Bahasa Pemrograman
+
+<!-- LANGUAGES:START -->
+
+*Belum dihasilkan. Jalankan GitHub Action “Update Profile Metrics” untuk mengisi daftar ini.*
+
+<!-- LANGUAGES:END -->
+
+### 🧰 Alat & Platform
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white" />
+</p>
+
+---
+
+## 🎨 Penilaian (1–100)
+
+<p align="center">
+  <!-- Gauge SVG: edit nilai `data-score` atau `--p` (persen) via Action -->
+  <svg width="280" height="280" viewBox="0 0 42 42" role="img" aria-label="Design UI score">
+    <defs>
+      <linearGradient id="g"><stop offset="0%" stop-color="#34d399"/><stop offset="100%" stop-color="#06b6d4"/></linearGradient>
+      <style>
+        .base{fill:none;stroke:#e5e7eb;stroke-width:3.8}
+        .bar{fill:none;stroke:url(#g);stroke-width:3.8;stroke-linecap:round}
+        .txt{font: 700 4px/1.2 Inter, system-ui; fill:#111827; text-anchor: middle}
+        .sub{font: 400 2.4px Inter, system-ui; fill:#6b7280; text-anchor: middle}
+      </style>
+    </defs>
+    <!-- Latar lingkaran -->
+    <circle class="base" r="15.915" cx="21" cy="21"/>
+    <!-- PROGRESS: ganti 87 pada stroke-dasharray via Action -->
+    <circle class="bar" r="15.915" cx="21" cy="21" transform="rotate(-90 21 21)" stroke-dasharray="87 100"/>
+    <text x="21" y="21" class="txt">87</text>
+    <text x="21" y="26" class="sub">Design UI / 100</text>
+  </svg>
+</p>
+
+> **Nilai Awal** Set awal: `87`.
+
+---
+
+## 📊 Ringkasan Aktivitas (otomatis)
+
+<!-- ACTIVITY:START -->
+
+*Belum dihasilkan. Action akan mengisi: total commit tahun ini, PR dibuka/merge, issues, repos publik.*
+
+<!-- ACTIVITY:END -->
+
+---
+
+## 🗂️ Showcase Pilihan
+
+- 🤖 [**DownloaderTera Bot**](https://github.com/x866bash/DownloaderTera) — Bot Telegram untuk download otomatis.
+- 🔧 [**ApiRedis**](https://github.com/x866bash/ApiRedis) — API ringan berbasis Redis + Vercel.
+- 🌐 [**x866bash.github.io**](https://github.com/x866bash/x866bash.github.io) — Website pribadi / portfolio.
+
+---
+
+<p align="center"><i>Made with ❤️  Profesional study.</i></p>
+
+---
