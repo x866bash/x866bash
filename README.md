@@ -85,7 +85,7 @@
 
 ### Metrics Lengkap
 <p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics"/>
+  <img src="./metrics.svg" alt="GitHub metrics" width="100%"/>
 </p>
 
 ### Stats
@@ -100,7 +100,6 @@
 
 <!-- ACTIVITY:END -->
 
----
 ---
 
 ## 🗂️ Showcase Pilihan
