@@ -87,7 +87,7 @@
 
 <!-- ACTIVITY:START -->
 
-<p align="center"><i>### Metrics</i></p>
+### Metrics
 <p align="center">
   <img src="./metrics.svg" alt="GitHub metrics"/>
 </p>
