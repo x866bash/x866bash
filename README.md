@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&center=true&vCenter=true&width=750&lines=Halo%2C+aku+leak+%28%40x866bash%29+%F0%9F%91%8B;Builder+%7C+DevOps+%7C+Automation+Enthusiast;Open+Source+enjoyer+%26+problem+solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&center=true&vCenter=true&width=750&lines=Halo%2C+aku+Dani+%28%40x866bash%29+%F0%9F%91%8B;Builder+%7C+DevOps+%7C+Automation+Enthusiast;Open+Source+enjoyer+%26+problem+solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -51,7 +51,9 @@
 
 <!-- LANGUAGES:START -->
 
-*Belum dihasilkan. Jalankan GitHub Action “Update Profile Metrics” untuk mengisi daftar ini.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x866bash&layout=compact&theme=tokyonight" alt="Top l>
+</p>
 
 <!-- LANGUAGES:END -->
 
@@ -99,11 +101,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=x866bash&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
 
-### Bahasa
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x866bash&layout=compact&theme=tokyonight" alt="Top languages"/>
-</p>
-
 <!-- ACTIVITY:END -->
 
 ---
@@ -118,4 +115,9 @@
 
 <p align="center"><i>Made with ❤️  Profesional study.</i></p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&center=true&vCenter=true&width=750&lines=Made+with+❤️+Profesional+study" alt="Typing SVG" />
+</p>
+
 ---
+
