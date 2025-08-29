@@ -51,10 +51,6 @@
 
 <!-- LANGUAGES:START -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x866bash&layout=compact&theme=tokyonight" alt="Top l>
-</p>
-
 <!-- LANGUAGES:END -->
 
 ### 🧰 Alat & Platform
@@ -91,7 +87,7 @@
 
 <!-- ACTIVITY:START -->
 
-### Metrics
+<p align="center"><i>### Metrics</i></p>
 <p align="center">
   <img src="./metrics.svg" alt="GitHub metrics"/>
 </p>
@@ -99,6 +95,11 @@
 ### Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=x866bash&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+
+### Bahasa
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x866bash&layout=compact&theme=tokyonight" alt="Top l>
 </p>
 
 <!-- ACTIVITY:END -->
@@ -114,10 +115,6 @@
 ---
 
 <p align="center"><i>Made with ❤️  Profesional study.</i></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&center=true&vCenter=true&width=750&lines=Made+with+❤️+Profesional+study" alt="Typing SVG" />
-</p>
 
 ---
 
