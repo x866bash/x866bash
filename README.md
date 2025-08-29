@@ -83,7 +83,7 @@
     <!-- Latar lingkaran -->
     <circle r="15.915" cx="21" cy="21" fill="none" stroke="#e5e7eb" stroke-width="3.8"/>
 
-    <!-- PROGRESS: ganti 87 pada stroke-dasharray -->
+    <!-- PROGRESS -->
     <circle r="15.915" cx="21" cy="21" fill="none" stroke="url(#g)" stroke-width="3.8"
             stroke-linecap="round" transform="rotate(-90 21 21)" stroke-dasharray="87 100"/>
 
