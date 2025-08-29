@@ -89,7 +89,20 @@
 
 <!-- ACTIVITY:START -->
 
-*Belum dihasilkan. Action akan mengisi: total commit tahun ini, PR dibuka/merge, issues, repos publik.*
+### Metrics
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub metrics"/>
+</p>
+
+### Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=x866bash&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+
+### Bahasa
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x866bash&layout=compact&theme=tokyonight" alt="Top languages"/>
+</p>
 
 <!-- ACTIVITY:END -->
 
