@@ -49,10 +49,6 @@
 
 ### 🔡 Bahasa Pemrograman
 
-<!-- LANGUAGES:START -->
-
-<!-- LANGUAGES:END -->
-
 ### 🧰 Alat & Platform
 
 <p>
