@@ -42,6 +42,7 @@
 </a>
 
 </div>
+
 ---
 
 ## 🧠 Bahasa & Stack yang Dipakai
@@ -71,25 +72,28 @@
 ## 🎨 Penilaian (1–100)
 
 <p align="center">
-  <!-- Gauge SVG: edit nilai `data-score` atau `--p` (persen) via Action -->
   <svg width="280" height="280" viewBox="0 0 42 42" role="img" aria-label="Design UI score">
     <defs>
-      <linearGradient id="g"><stop offset="0%" stop-color="#34d399"/><stop offset="100%" stop-color="#06b6d4"/></linearGradient>
-      <style>
-        .base{fill:none;stroke:#e5e7eb;stroke-width:3.8}
-        .bar{fill:none;stroke:url(#g);stroke-width:3.8;stroke-linecap:round}
-        .txt{font: 700 4px/1.2 Inter, system-ui; fill:#111827; text-anchor: middle}
-        .sub{font: 400 2.4px Inter, system-ui; fill:#6b7280; text-anchor: middle}
-      </style>
+      <linearGradient id="g">
+        <stop offset="0%" stop-color="#34d399"/>
+        <stop offset="100%" stop-color="#06b6d4"/>
+      </linearGradient>
     </defs>
+
     <!-- Latar lingkaran -->
-    <circle class="base" r="15.915" cx="21" cy="21"/>
-    <!-- PROGRESS: ganti 87 pada stroke-dasharray via Action -->
-    <circle class="bar" r="15.915" cx="21" cy="21" transform="rotate(-90 21 21)" stroke-dasharray="87 100"/>
-    <text x="21" y="21" class="txt">87</text>
-    <text x="21" y="26" class="sub">Design UI / 100</text>
+    <circle r="15.915" cx="21" cy="21" fill="none" stroke="#e5e7eb" stroke-width="3.8"/>
+
+    <!-- PROGRESS: ganti 87 pada stroke-dasharray -->
+    <circle r="15.915" cx="21" cy="21" fill="none" stroke="url(#g)" stroke-width="3.8"
+            stroke-linecap="round" transform="rotate(-90 21 21)" stroke-dasharray="87 100"/>
+
+    <text x="21" y="21" font-size="4" font-weight="700" text-anchor="middle" fill="#111827">87</text>
+    <text x="21" y="26" font-size="2.4" text-anchor="middle" fill="#6b7280">Design UI / 100</text>
   </svg>
 </p>
+
+<img src="https://progress-bar.dev/87/?title=Design%20UI&width=400&color=blue" />
+`███████████████████████████████████████████-----` 87/100
 
 > **Nilai Awal** Set awal: `87`.
 
