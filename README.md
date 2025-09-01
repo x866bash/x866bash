@@ -16,7 +16,7 @@
 * 🧰 Stack harian: **Python | Docker | FastAPI | Redis | GitHub Actions | Nginx**
 * 💬 Senang ngobrol soal: **DevOps, self-hosted tools, debugging Linux**
 * ⚡ Fun fact: sering ngoprek server dari jam 12 sampe jam 5 pagi ☕
-* 📫 Kontak cepat: **melalui GitHub issues/discussions** OR [EMAIL AKU](x866bash.github@zohomail.com)
+* 📫 Kontak cepat: **melalui GitHub issues/discussions** OR [EMAIL AKU](mailto:x866bash.github@zohomail.com)
 
 ---
 
