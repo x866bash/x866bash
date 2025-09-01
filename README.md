@@ -73,8 +73,6 @@
 
 ![UI Score](https://img.shields.io/badge/Design%20UI-87%2F100-06b6d4?style=for-the-badge)
 
-`███████████████████████████████████████████-----` 87/100
-
 > **Nilai Awal** Set awal: `87`.
 
 ---
@@ -106,7 +104,7 @@
 
 - 🤖 [**DownloaderTera Bot**](https://github.com/x866bash/DownloaderTera) — Bot Telegram untuk download otomatis.
 - 🔧 [**ApiRedis**](https://github.com/x866bash/ApiRedis) — API ringan berbasis Redis + Vercel.
-- 🌐 [**x866bash.github.io**](https://github.com/x866bash/x866bash.github.io) — Website pribadi / portfolio.
+- 🌐 [**x866bash.github.io**](https://x866bash-github-io.vercel.app/) — Website pribadi / portfolio.
 
 ---
 
