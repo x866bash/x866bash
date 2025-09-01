@@ -104,7 +104,7 @@
 
 - 🤖 [**DownloaderTera Bot**](https://github.com/x866bash/DownloaderTera) — Bot Telegram untuk download otomatis.
 - 🔧 [**ApiRedis**](https://github.com/x866bash/ApiRedis) — API ringan berbasis Redis + Vercel.
-- 🌐 [**x866bash.github.io**](https://x866bash-github-io.vercel.app/) — Website pribadi / portfolio.
+- 🌐 [**Profile Website**](https://x866bash-github-io.vercel.app/) — Website pribadi / portfolio.
 
 ---
 
