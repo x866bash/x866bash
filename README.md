@@ -14,7 +14,7 @@
 
 * 🔥 Menggunakan bahasa indonesia penuh, **tapi kadang ada sih yang keceplosan Maenan linggis 😂**
 * 🔭 Fokus sekarang: **Lagi suka main automatisan scanning & API, seru juga yah**
-* 🧰 Stack harian: **Python | Docker | FastAPI | Redis | GitHub Actions | Nginx**
+* 🧰 Stack harian: **Python | Docker | FastAPI | GitHub Actions | Framework**
 * 💬 Senang ngobrol soal: **DevOps, self-hosted tools, debugging Linux**
 * ⚡ Fun fact: sering ngoprek server dari jam 12 sampe jam 5 pagi ☕
 * 📫 Kontak cepat: **melalui GitHub issues/discussions** OR [EMAIL AKU](mailto:x866bash.github@zohomail.com)
