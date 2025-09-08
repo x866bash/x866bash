@@ -57,12 +57,31 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white" alt="Perl" />
+  <img src="https://img.shields.io/badge/GCC-DBDBDB?logo=c&logoColor=black" alt="GCC" />
+  <img src="https://img.shields.io/badge/G++-00599C?logo=cplusplus&logoColor=white" alt="G++" />
+  <img src="https://img.shields.io/badge/Zsh-F15A24?logo=gnu-bash&logoColor=white" alt="Zsh" />
+
+  <!-- Package Manager -->
+  <img src="https://img.shields.io/badge/apt-844FBA?logo=debian&logoColor=white" alt="apt" />
+  <img src="https://img.shields.io/badge/yum-000000?logo=redhat&logoColor=white" alt="yum" />
+  <img src="https://img.shields.io/badge/dnf-EE0000?logo=fedora&logoColor=white" alt="dnf" />
+  <img src="https://img.shields.io/badge/pacman-1793D1?logo=arch-linux&logoColor=white" alt="pacman" />
+  <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=black" alt="brew" />
+  <img src="https://img.shields.io/badge/pip3-3776AB?logo=python&logoColor=white" alt="pip3" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/gem-CC342D?logo=ruby&logoColor=white" alt="gem" />
+  <img src="https://img.shields.io/badge/cargo-000000?logo=rust&logoColor=white" alt="cargo" />
 
   <!-- Platform & Tools -->
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
