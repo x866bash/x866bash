@@ -12,7 +12,7 @@
 
 ### 👤 Tentang Saya
 
-* 🔥 Bahasa yang full menggunakan bahasa indonesia, **tpi ada sih yang keceplosan 😂**
+* 🔥 Menggunakan bahasa indonesia penuh, **tapi kadang ada sih yang keceplosan Maenan linggis 😂**
 * 🔭 Fokus sekarang: **Lagi suka main automatisan scanning & API, seru juga yah**
 * 🧰 Stack harian: **Python | Docker | FastAPI | Redis | GitHub Actions | Nginx**
 * 💬 Senang ngobrol soal: **DevOps, self-hosted tools, debugging Linux**
