@@ -103,9 +103,10 @@
 
 ## 🗂️ Showcase Pilihan
 
-- 🤖 [**DownloaderTera Bot**](https://github.com/x866bash/DownloaderTera) — Bot Telegram untuk download otomatis.
-- 🔧 [**ApiRedis**](https://github.com/x866bash/ApiRedis) — API ringan berbasis Redis + Vercel.
-- 🌐 [**Profile Website**](https://x866bash-github-io.vercel.app/) — Website pribadi / portfolio.
+- 🤖 [**CekLokal**](https://github.com/x866bash/CekLokal) — scanning folder lokal aja sih.
+- 🔧 [**autoPen**](https://github.com/x866bash/autoPen) — scanning domain dengan web service yang se ada nya ajah.
+- 🔧 [**autoPenV2**](https://github.com/x866bash/autoPen) — scaning domain dengan hydra + web service se ada nya ajah sih.
+- 🌐 [**Profile Website**](https://x866bash-github-io.vercel.app/) — Website Pribadi.
 
 ---
 
