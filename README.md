@@ -12,7 +12,8 @@
 
 ### 👤 Tentang Saya
 
-* 🔭 Fokus sekarang: **Membangun bot Telegram & API untuk otomasi**
+* 🔥 Bahasa yang full menggunakan bahasa indonesia, **tpi ada sih yang keceplosan 😂**
+* 🔭 Fokus sekarang: **Lagi suka main automatisan scanning & API, seru juga yah**
 * 🧰 Stack harian: **Python | Docker | FastAPI | Redis | GitHub Actions | Nginx**
 * 💬 Senang ngobrol soal: **DevOps, self-hosted tools, debugging Linux**
 * ⚡ Fun fact: sering ngoprek server dari jam 12 sampe jam 5 pagi ☕
