@@ -31,7 +31,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=x866bash&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Stats" />
 </a>
 <a href="https://github.com/x866bash">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=x866bash&hide_border=true&theme=transparent" alt="Streak" />
+  <img height="160" src="https://github-readme-streak-stats-salesp07.vercel.app?user=x866bash&hide_border=true&theme=transparent" alt="Streak" />
 </a>
 
 </div>
@@ -39,7 +39,7 @@
 <div align="center">
 
 <a href="https://github.com/x866bash">
-  <img height="160" src="https://github-readme-streak-stats-salesp07.vercel.app?user=x866bash&hide_border=true&theme=transparent" alt="Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x866bash&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Top Langs" />
 </a>
 
 </div>
